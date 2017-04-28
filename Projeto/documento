@@ -1,0 +1,19 @@
+AppTest Criado com sucesso.
+
+Passos
+
+1- usuário loga primeira vez online;
+
+2- verifica e salva um registro dentro do android com sqlite;
+
+3- toda vez que logar online o app faz update do registro já salvo;
+
+4- app offline, ai loga através do banco dentro do android.
+
+Tem duas pasta no diretório
+1- projeto PHP => pasta rest;
+2- projeto android > pasta webservice.
+
+==============================
+
+A idéia é deixar o usuário sempre logar no sistema, estando online ou não.
